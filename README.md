@@ -619,6 +619,10 @@ CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_
 *Roberto Bigazzi, Marcella Cornia, Silvia Cascianelli, Lorenzo Baraldi, Rita Cucchiara* <br>
 ICRA, 2023. [[Paper]](https://arxiv.org/abs/2301.07150)
 
+* **Mapping High-level Semantic Regions in Indoor Environments without Object Recognition** <br>
+*Roberto Bigazzi, Lorenzo Baraldi, Shreyas Kousik, Rita Cucchiara, Marco Pavone* <br>
+ICRA, 2024. [[Paper]](https://arxiv.org/abs/2403.07076)
+
 
 ### <a name="eqa"></a> Embodied Question Answering
 * **Embodied Question Answering** <br>
