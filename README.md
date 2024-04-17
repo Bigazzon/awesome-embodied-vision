@@ -487,6 +487,9 @@ EMNLP, 2021. [[Paper]](https://aclanthology.org/2021.emnlp-main.328) [[Code]](ht
 *Muhammad Zubair Irshad, Niluthpol Chowdhury Mithun, Zachary Seymour, Han-Pang Chiu, Supun Samarasekera, Rakesh Kumar* <br>
 ICPR, 2022. [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
 
+* **AIGeN: An Adversarial Approach for Instruction Generation in VLN** <br>
+*Niyati Rawal, Roberto Bigazzi, Lorenzo Baraldi, Rita Cucchiara* <br>
+CVPRW, 2024. [[Paper]](https://arxiv.org/abs/2404.10054)
 
 ### <a name="multiagent"></a> Multi-Agent Tasks
 * **Two Body Problem: Collaborative Visual Task Completion** <br>
